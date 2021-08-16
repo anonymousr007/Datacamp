@@ -1,4 +1,4 @@
-# Correcting string errors
+# Correcting String Errors
 
 It's easy to make errors when you're trying to type strings quickly.
 
