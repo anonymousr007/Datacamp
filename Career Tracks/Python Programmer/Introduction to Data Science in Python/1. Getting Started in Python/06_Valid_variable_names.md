@@ -1,4 +1,4 @@
-# Valid variable names
+# Valid Variable Names
 
 Which of the following is not a valid variable name?
 
