@@ -1,4 +1,4 @@
-# Correcting a broken import
+# Correcting a Broken Import
 
 In this exercise, we'll learn to import `numpy`, a module for performing mathematical operations on lists of data.The standard alias for `numpy` is `np`.What did you need to change to make the import run without errors?
 
