@@ -23,3 +23,5 @@ plt.plot(x_values, y_values)
 # Display the graph
 plt.show()
 ```
+
+![Correcting a Function Error plt](https://github.com/anonymousr007/Datacamp/blob/main/Career%20Tracks/Python%20Programmer/Introduction%20to%20Data%20Science%20in%20Python/1.%20Getting%20Started%20in%20Python/Images/correcting_a_function_error_plt.svg)
