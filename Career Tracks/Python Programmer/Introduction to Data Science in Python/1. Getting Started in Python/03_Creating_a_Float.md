@@ -1,4 +1,4 @@
-# Creating a float
+# Creating a Float
 
 Before we start looking for Bayes' kidnapper, we need to fill out a Missing Puppy Report with details of the case. Each piece of information will be stored as a variable.
 
