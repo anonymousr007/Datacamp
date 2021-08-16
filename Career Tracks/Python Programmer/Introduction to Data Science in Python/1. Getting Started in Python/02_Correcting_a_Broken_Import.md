@@ -17,15 +17,12 @@ import numpy as np
 
 **Possible Answers**
 
-* Whitespace matters in Python, so spaces must be removed
+:heavy_check_mark: Whitespace matters in Python, so spaces must be removed
 
-* Python is case-sensitive, so numpy must be all lowercase
+:heavy_check_mark: Python is case-sensitive, so numpy must be all lowercase
 
 * Python is case-sensitive, so IMPORT must be all uppercase 
 
-```python
-import numpy as np
-```
 
 
 
