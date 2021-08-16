@@ -1,4 +1,4 @@
-# Importing Python modules
+# Importing Python Modules
 
 Modules (sometimes called _packages_ or _libraries_) help group together related sets of tools in Python. In this exercise, we'll examine two modules that are frequently used by Data Scientists:
 
